@@ -7,7 +7,7 @@
  */
 
 @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
-@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+@import url('https://raw.githubusercontent.com/tunaaaammmm/asd/main/2');
 
 :root{
     --background: url('https://images.alphacoders.com/632/632525.png');
